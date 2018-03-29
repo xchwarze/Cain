@@ -1,11 +1,30 @@
 <?php
 //download to:
 // http://standards-oui.ieee.org/oui/oui.txt
-// https://git.fedorahosted.org/cgit/hwdata.git/plain/oui.txt
+// https://github.com/vcrhonek/hwdata/blob/master/oui.txt
 
 $oui_file = dirname(__FILE__) . DIRECTORY_SEPARATOR . 'oui.txt';
 
 
+$total = 0;
+$output = [];
+
+foreach (file($oui_file) as $line) {
+	if (strpos($line, '(base 16)') !== false){
+		$total++;
+		$output[] = $line;
+	}
+}
+
+sort($output);
+file_put_contents("{$oui_file}.cain", implode("", $output));
+echo "[*] File: {$oui_file}.cain ($total)";
+
+
+
+
+/* 
+// old method
 $mem_db = new PDO('sqlite::memory:');
 $mem_db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 $mem_db->exec("CREATE TABLE oui (id INTEGER PRIMARY KEY, info TEXT)");
@@ -31,3 +50,4 @@ foreach ($result as $row) {
 
 file_put_contents("{$oui_file}.cain", $content);
 echo "[*] File: {$oui_file}.cain";
+*/
