@@ -1,53 +1,36 @@
 <?php
-//download to:
+//download url:
 // http://standards-oui.ieee.org/oui/oui.txt
+// https://github.com/vcrhonek/hwdata/blob/RHEL7/oui.txt
 // https://github.com/vcrhonek/hwdata/blob/master/oui.txt
 
-$oui_file = dirname(__FILE__) . DIRECTORY_SEPARATOR . 'oui.txt';
+// Config
+$oui_file = dirname(__FILE__) . DIRECTORY_SEPARATOR . "oui.txt.original";
+$oui_download_url = "";
 
 
+
+// Script...
+if (!empty($oui_download_url)) {
+	echo "[+] Downloading updated oui.txt...\n";
+	$remote_file = file_get_contents($oui_download_url);
+	file_put_contents("oui.txt.original", $remote_file);
+	echo "[+] Download complete!\n";
+}
+
+
+echo "[+] Processing oui.txt...\n";
 $total = 0;
 $output = [];
 
 foreach (file($oui_file) as $line) {
-	if (strpos($line, '(base 16)') !== false){
+	if (strpos($line, "(base 16)") !== false){
 		$total++;
 		$output[] = $line;
 	}
 }
 
 sort($output);
-file_put_contents("{$oui_file}.cain", implode("", $output));
-echo "[*] File: {$oui_file}.cain ($total)";
-
-
-
-
-/* 
-// old method
-$mem_db = new PDO('sqlite::memory:');
-$mem_db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-$mem_db->exec("CREATE TABLE oui (id INTEGER PRIMARY KEY, info TEXT)");
-
-$lines = file($oui_file);
-$insert = 'INSERT INTO oui (info) VALUES (:info)';
-foreach ($lines as $line) {
-	if (strpos($line, '(base 16)') !== false){
-		$line = trim($line);
-
-		$stmt = $mem_db->prepare($insert);
-		$stmt->bindParam(':info', $line, SQLITE3_TEXT);
-		$stmt->execute();
-	}
-}
-
-
-$content = '';
-$result = $mem_db->query('SELECT info FROM oui ORDER BY info ASC');
-foreach ($result as $row) {
-	$content .= "  {$row['info']}\r\n";
-}
-
-file_put_contents("{$oui_file}.cain", $content);
-echo "[*] File: {$oui_file}.cain";
-*/
+file_put_contents("oui.txt", implode("", $output));
+echo "[+] Processing complete!\n";
+echo "[*] File: oui.txt Lines: {$total}\n";
