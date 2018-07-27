@@ -16,7 +16,7 @@ Cain & Abel has been developed in the hope that it will be useful for network ad
 
 The latest version is faster and contains a lot of new features like APR (Arp Poison Routing) which enables sniffing on switched LANs and Man-in-the-Middle attacks. The sniffer in this version can also analyze encrypted protocols such as SSH-1 and HTTPS, and contains filters to capture credentials from a wide range of authentication mechanisms. The new version also ships routing protocols authentication monitors and routes extractors, dictionary and brute-force crackers for all common hashing algorithms and for several specific authentications, password/hash calculators, cryptanalysis attacks, password decoders and  some not so common utilities related to network and system security.
 
-Win10 WinpCap fix
+Win10 WinPcap fix
 -----------
 If Cain does not detect the IP address or Gateway
 
