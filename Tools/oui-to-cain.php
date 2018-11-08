@@ -6,7 +6,7 @@
 
 // Config
 $oui_file = dirname(__FILE__) . DIRECTORY_SEPARATOR . "oui.txt.original";
-$oui_download_url = "";
+$oui_download_url = "http://standards-oui.ieee.org/oui/oui.txt";
 
 
 
