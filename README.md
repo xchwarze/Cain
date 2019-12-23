@@ -1,12 +1,13 @@
 Cain & Abel
 ====
 
-![alt text](http://www.oxid.it/images/logocain.png "Cain & Abel")
+![alt text](https://raw.githubusercontent.com/xchwarze/Cain/master/logocain.png "Cain & Abel")
 
 
 About this repo
 -----------
 This repo intends to maintain a updated version.
+Based on version 4.9.56 - April 7, 2014
 
 About Cain & Abel
 -----------
