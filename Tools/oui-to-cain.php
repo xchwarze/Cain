@@ -34,3 +34,4 @@ sort($output);
 file_put_contents("oui.txt", implode("", $output));
 echo "[+] Processing complete!\n";
 echo "[*] File: oui.txt Lines: {$total}\n";
+echo "[!] Replace Cain original oui.txt with new file!\n";
