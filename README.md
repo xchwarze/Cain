@@ -1,7 +1,7 @@
 Cain & Abel
 ====
 
-![alt text](https://raw.githubusercontent.com/xchwarze/Cain/master/logocain.png "Cain & Abel")
+![Cain Logo](https://raw.githubusercontent.com/xchwarze/Cain/master/logo-cain.png "Cain & Abel")
 
 
 About this repo
