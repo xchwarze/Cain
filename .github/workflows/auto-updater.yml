@@ -19,7 +19,7 @@ jobs:
         working-directory: ${{ github.workspace }}/updater
         run: |
           echo "[*] Running updater.exe to update tools and drivers..."
-          .\updater.exe -f
+          .\updater.exe -dpb
 
       - name: Configure Git
         run: |
