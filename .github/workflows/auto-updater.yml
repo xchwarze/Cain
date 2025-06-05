@@ -1,0 +1,36 @@
+name: Update Tools and Drivers
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 1 * *'
+
+jobs:
+  update_tools:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Run updater
+        run: |
+          echo "[*] Running updater.exe to update tools and drivers..."
+          .\updater\updater.exe -f
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Commit and push changes
+        run: |
+          git add .
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated update: tools and drivers"
+            git push
+          fi
