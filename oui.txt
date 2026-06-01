@@ -882,7 +882,7 @@
 000371     (base 16)		Acomz Networks Corp.
 000372     (base 16)		ULAN
 000373     (base 16)		Aselsan A.S
-000374     (base 16)		Control Microsystems
+000374     (base 16)		Schneider Electric
 000375     (base 16)		NetMedia, Inc.
 000376     (base 16)		Graphtec Technology, Inc.
 000377     (base 16)		Gigabit Wireless
@@ -968,7 +968,7 @@
 0003C7     (base 16)		hopf Elektronik GmbH
 0003C8     (base 16)		CML Emergency Services
 0003C9     (base 16)		TECOM Co., Ltd.
-0003CA     (base 16)		MTS Systems Corp.
+0003CA     (base 16)		Temposonics, LLC
 0003CB     (base 16)		SystemGear Co., Ltd.
 0003CC     (base 16)		Momentum Computer, Inc.
 0003CD     (base 16)		Clovertech, Inc.
@@ -1056,7 +1056,7 @@
 00041F     (base 16)		Sony Interactive Entertainment Inc.
 000420     (base 16)		Slim Devices, Inc.
 000421     (base 16)		Ocular Networks
-000422     (base 16)		Studio Technologies, Inc
+000422     (base 16)		Studio Technologies, Inc.
 000423     (base 16)		Intel Corporation
 000424     (base 16)		TMC s.r.l.
 000425     (base 16)		Atmel Corporation
@@ -1311,7 +1311,7 @@
 00051E     (base 16)		Brocade Communications Systems LLC
 00051F     (base 16)		Taijin Media Co., Ltd.
 000520     (base 16)		Smartronix, Inc.
-000521     (base 16)		Control Microsystems
+000521     (base 16)		Schneider Electric
 000522     (base 16)		LEA*D Corporation, Inc.
 000523     (base 16)		AVL List GmbH
 000524     (base 16)		BTL System (HK) Limited
@@ -11491,7 +11491,7 @@
 00901A     (base 16)		UNISPHERE SOLUTIONS
 00901B     (base 16)		DIGITAL CONTROLS
 00901C     (base 16)		mps Software Gmbh
-00901D     (base 16)		PEC (NZ) LTD.
+00901D     (base 16)		Gallagher Group Limited
 00901E     (base 16)		Selesta Ingegneria S.p.A.
 00901F     (base 16)		ADTEC PRODUCTIONS, INC.
 009020     (base 16)		PHILIPS ANALYTICAL X-RAY B.V.
@@ -12275,7 +12275,7 @@
 00C093     (base 16)		ALTA RESEARCH CORP.
 00C094     (base 16)		VMX INC.
 00C095     (base 16)		ZNYX Networks, Inc.
-00C096     (base 16)		TAMURA CORPORATION
+00C096     (base 16)		Tamu Radiance Corporation
 00C097     (base 16)		ARCHIPEL SA
 00C098     (base 16)		CHUNTEX ELECTRONIC CO., LTD.
 00C099     (base 16)		YOSHIKI INDUSTRIAL CO.,LTD.
@@ -13117,6 +13117,7 @@
 042DB4     (base 16)		First Property (Beijing) Co., Ltd Modern MOMA Branch
 042EC1     (base 16)		Apple, Inc.
 042F56     (base 16)		ATOCS (Shenzhen) LTD
+0430FA     (base 16)		Cisco Systems, Inc
 043110     (base 16)		Inspur Group Co., Ltd.
 043201     (base 16)		Broadcom Limited
 0432F4     (base 16)		Partron
@@ -13189,6 +13190,7 @@
 045791     (base 16)		Shenzhenshi Xinzhongxin Technology Co.Ltd
 04585D     (base 16)		IEEE Registration Authority
 04586F     (base 16)		Sichuan Whayer information industry Co.,LTD
+045A3D     (base 16)		Nothing Technology Limited
 045A95     (base 16)		Nokia Corporation
 045C06     (base 16)		Zmodo Technology Corporation
 045C6C     (base 16)		Juniper Networks
@@ -13320,6 +13322,7 @@
 04B1A1     (base 16)		Samsung Electronics Co.,Ltd
 04B247     (base 16)		Espressif Inc.
 04B3B6     (base 16)		Seamap (UK) Ltd
+04B3C9     (base 16)		WNC Corporation
 04B429     (base 16)		Samsung Electronics Co.,Ltd
 04B466     (base 16)		BSP Co., Ltd.
 04B4FE     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
@@ -13674,6 +13677,7 @@
 0821EF     (base 16)		Samsung Electronics Co.,Ltd
 0823B2     (base 16)		vivo Mobile Communication Co., Ltd.
 0823C6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+08240B     (base 16)		Apple, Inc.
 082522     (base 16)		ADVANSEE
 082525     (base 16)		Xiaomi Communications Co Ltd
 082573     (base 16)		Apple, Inc.
@@ -13811,6 +13815,7 @@
 08798C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 087999     (base 16)		AIM GmbH
 087A4C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+087B0F     (base 16)		Amazon Technologies Inc.
 087B12     (base 16)		Sagemcom Broadband SAS
 087B87     (base 16)		Cisco Systems, Inc
 087BAA     (base 16)		SVYAZKOMPLEKTSERVICE, LLC
@@ -14031,6 +14036,7 @@
 0C0ADF     (base 16)		Texas Instruments
 0C0CEA     (base 16)		BLU Products Inc
 0C0E76     (base 16)		D-Link International
+0C0EC1     (base 16)		IEEE Registration Authority
 0C0ECB     (base 16)		Huawei Device Co., Ltd.
 0C0FD8     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
 0C1105     (base 16)		AKUVOX (XIAMEN) NETWORKS CO., LTD
@@ -14125,6 +14131,7 @@
 0C4F5A     (base 16)		ASA-RT s.r.l.
 0C4F9B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 0C5101     (base 16)		Apple, Inc.
+0C5141     (base 16)		NXP Semiconductors Taiwan Ltd.
 0C517E     (base 16)		Apple, Inc.
 0C51F7     (base 16)		CHAUVIN ARNOUX
 0C5203     (base 16)		AGM GROUP LIMITED
@@ -14132,6 +14139,7 @@
 0C5331     (base 16)		ETH Zurich
 0C53B7     (base 16)		Apple, Inc.
 0C5415     (base 16)		Intel Corporate
+0C5427     (base 16)		Dongguan Huayin Electronic Technology Co., Ltd.
 0C54A5     (base 16)		PEGATRON CORPORATION
 0C54B9     (base 16)		Nokia
 0C5521     (base 16)		Axiros GmbH
@@ -14473,6 +14481,7 @@
 101849     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 10189E     (base 16)		Elmo Motion Control
 101965     (base 16)		New H3C Technologies Co., Ltd
+101988     (base 16)		Mother Computer Inc.
 101A92     (base 16)		AKEBONO BRAKE INDUSTRY CO.,LTD.
 101B54     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 101C0C     (base 16)		Apple, Inc.
@@ -14635,6 +14644,7 @@
 107873     (base 16)		Shenzhen Jinkeyi Communication Co., Ltd.
 1078CE     (base 16)		Hanvit SI, Inc.
 1078D2     (base 16)		Elitegroup Computer Systems Co.,Ltd.
+107A2A     (base 16)		Microsoft Corporation
 107A86     (base 16)		U&U ENGINEERING INC.
 107B44     (base 16)		ASUSTek COMPUTER INC.
 107B93     (base 16)		Zhen Shi Information Technology (Shanghai) Co., Ltd.
@@ -14694,6 +14704,7 @@
 109D7A     (base 16)		Huawei Device Co., Ltd.
 109D9C     (base 16)		EM Microelectronic
 109E3A     (base 16)		Zhejiang Tmall Technology Co., Ltd.
+109E6B     (base 16)		Apple, Inc.
 109F41     (base 16)		Apple, Inc.
 109F47     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 109F4F     (base 16)		New H3C Intelligence Terminal Co., Ltd.
@@ -14722,6 +14733,7 @@
 10AE60     (base 16)		Amazon Technologies Inc.
 10AEA5     (base 16)		Duskrise inc.
 10AF78     (base 16)		Shenzhen ATUE Technology Co., Ltd
+10B06E     (base 16)		Shenzhen Phaten Tech. LTD
 10B1DF     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 10B1F8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 10B232     (base 16)		Qingdao Intelligent&Precise Electronics Co.,Ltd.
@@ -15184,6 +15196,7 @@
 14C3C2     (base 16)		K.A. Schmersal GmbH & Co. KG
 14C67D     (base 16)		Vizio, Inc
 14C697     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
+14C7C4     (base 16)		Zyxel Communications Corporation
 14C88B     (base 16)		Apple, Inc.
 14C913     (base 16)		LG Electronics
 14C9CF     (base 16)		Sigmastar Technology Ltd.
@@ -15203,6 +15216,7 @@
 14D19E     (base 16)		Apple, Inc.
 14D424     (base 16)		AzureWave Technology Inc.
 14D4FE     (base 16)		Commscope
+14D537     (base 16)		All Inspire Health Inc.
 14D5C6     (base 16)		slash dev slash agents, inc
 14D64D     (base 16)		D-Link International
 14D67C     (base 16)		Uncord Technologies Private Limited
@@ -16031,6 +16045,7 @@
 1CE4DD     (base 16)		Technicolor (China) Technology Co., Ltd.
 1CE504     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 1CE57F     (base 16)		Samsung Electronics Co.,Ltd
+1CE587     (base 16)		Cisco Meraki
 1CE61D     (base 16)		Samsung Electronics Co.,Ltd
 1CE62B     (base 16)		Apple, Inc.
 1CE639     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -16128,6 +16143,7 @@
 201F31     (base 16)		Inteno Broadband Technology AB
 201F3B     (base 16)		Google, Inc.
 201F54     (base 16)		Raisecom Technology CO., LTD
+201F55     (base 16)		DJI Osmo Technology Co., Ltd.
 202027     (base 16)		Shenzhen Sundray Technologies company Limited
 202051     (base 16)		zte corporation
 202141     (base 16)		Universal Electronics BV
@@ -16226,6 +16242,7 @@
 205843     (base 16)		WNC Corporation
 205869     (base 16)		Ruckus Wireless
 2059A0     (base 16)		Paragon Technologies Inc.
+2059D1     (base 16)		Mellanox Technologies, Inc.
 205A00     (base 16)		Coval
 205A1D     (base 16)		zte corporation
 205A8F     (base 16)		Shenzhen Hikeen Technology Co.,LTD
@@ -16308,6 +16325,7 @@
 2091DF     (base 16)		Apple, Inc.
 209339     (base 16)		Juniper Networks
 20934D     (base 16)		FUJIAN STAR-NET COMMUNICATION CO.,LTD
+209395     (base 16)		nVent
 20968A     (base 16)		China Mobile (Hangzhou) Information Technology Co., Ltd.
 209727     (base 16)		TELTONIKA NETWORKS UAB
 20988E     (base 16)		Shenzhen Feasycom Co., Ltd
@@ -16513,6 +16531,7 @@
 2419A5     (base 16)		New H3C Technologies Co., Ltd
 241A8C     (base 16)		Squarehead Technology AS
 241AE6     (base 16)		Huawei Device Co., Ltd.
+241AF7     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
 241B13     (base 16)		Shanghai Nutshell Electronic Co., Ltd.
 241B44     (base 16)		Hangzhou Tuners Electronics Co., Ltd
 241B7A     (base 16)		Apple, Inc.
@@ -16521,6 +16540,7 @@
 241E2B     (base 16)		Zhejiang Cainiao Supply Chain Management Co., Ltd
 241EEB     (base 16)		Apple, Inc.
 241F2C     (base 16)		Calsys, Inc.
+241F49     (base 16)		NXP Semiconductors Taiwan Ltd.
 241FA0     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 241FBD     (base 16)		Extreme Networks Headquarters
 2420C7     (base 16)		Sagemcom Broadband SAS
@@ -16626,6 +16646,7 @@
 2462AB     (base 16)		Espressif Inc.
 2462C6     (base 16)		Huawei Device Co., Ltd.
 2462CE     (base 16)		Hewlett Packard Enterprise
+246404     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
 246477     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
 24649F     (base 16)		Huawei Device Co., Ltd.
 2464EF     (base 16)		CYG SUNRI CO.,LTD.
@@ -17100,6 +17121,7 @@
 288EB9     (base 16)		Wacom Co.,Ltd.
 288EEC     (base 16)		Apple, Inc.
 288FF6     (base 16)		Apple, Inc.
+289104     (base 16)		TP-Link Systems Inc.
 289176     (base 16)		Indyme Solutions, LLC
 2891D0     (base 16)		Stage Tec Entwicklungsgesellschaft für professionelle Audiotechnik mbH
 289200     (base 16)		Intel Corporate
@@ -17315,6 +17337,7 @@
 2C029F     (base 16)		3ALogics
 2C0369     (base 16)		ACCTON TECHNOLOGY CORPORATION
 2C0547     (base 16)		Shenzhen Phaten Tech. LTD
+2C0613     (base 16)		China Mobile Group Device Co.,Ltd.
 2C0623     (base 16)		Win Leader Inc.
 2C073C     (base 16)		DEVLINE LIMITED
 2C0786     (base 16)		Huawei Device Co., Ltd.
@@ -17427,6 +17450,7 @@
 2C4835     (base 16)		IEEE Registration Authority
 2C4881     (base 16)		vivo Mobile Communication Co., Ltd.
 2C4A11     (base 16)		Ciena Corporation
+2C4B14     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
 2C4C15     (base 16)		Juniper Networks
 2C4C7D     (base 16)		New H3C Technologies Co., Ltd
 2C4CC6     (base 16)		Murata Manufacturing Co., Ltd.
@@ -17733,6 +17757,7 @@
 30075C     (base 16)		43403
 3007A3     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 30084D     (base 16)		Trumpf Hüttinger
+300916     (base 16)		Apple, Inc.
 3009C0     (base 16)		Motorola Mobility LLC, a Lenovo Company
 3009F9     (base 16)		IEEE Registration Authority
 300A60     (base 16)		IEEE Registration Authority
@@ -17938,6 +17963,7 @@
 308999     (base 16)		Guangdong East Power Co.,
 3089A6     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 3089D3     (base 16)		HONGKONG UCLOUDLINK NETWORK TECHNOLOGY LIMITED
+3089EC     (base 16)		Nintendo Co.,Ltd
 308AF7     (base 16)		Huawei Device Co., Ltd.
 308B23     (base 16)		Annapurna labs
 308BB2     (base 16)		Cisco Systems, Inc
@@ -18120,6 +18146,7 @@
 30FC8C     (base 16)		Vantiva - Connected Home
 30FCEB     (base 16)		LG Electronics (Mobile Communications)
 30FD11     (base 16)		MACROTECH (USA) INC.
+30FD34     (base 16)		COMMANDO Networks Pvt Ltd.
 30FD38     (base 16)		Google, Inc.
 30FD65     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 30FE31     (base 16)		Nokia
@@ -18561,6 +18588,7 @@
 34F6D2     (base 16)		Panasonic Taiwan Co.,Ltd.
 34F716     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 34F86E     (base 16)		Parker Hannifin Corporation
+34F8DD     (base 16)		Apple, Inc.
 34F8E7     (base 16)		Cisco Systems, Inc
 34F968     (base 16)		ATEK Products, LLC
 34FA1C     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
@@ -18615,6 +18643,7 @@
 38141B     (base 16)		Secure Letter Inc.
 381428     (base 16)		Dell Inc.
 38144E     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
+3814A1     (base 16)		LG Innotek
 38165A     (base 16)		zte corporation
 381672     (base 16)		Shenzhen SuperElectron Technology Co.,Ltd.
 3816D1     (base 16)		Samsung Electronics Co.,Ltd
@@ -18675,6 +18704,7 @@
 38378B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 38384B     (base 16)		vivo Mobile Communication Co., Ltd.
 3838A6     (base 16)		Arista Networks
+383904     (base 16)		ittim
 38396C     (base 16)		Huawei Device Co., Ltd.
 38398F     (base 16)		Silicon Laboratories
 3839CD     (base 16)		vivo Mobile Communication Co., Ltd.
@@ -18863,7 +18893,7 @@
 38B19E     (base 16)		IEEE Registration Authority
 38B1DB     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 38B3F7     (base 16)		Huawei Device Co., Ltd.
-38B4D3     (base 16)		BSH Hausgeraete GmbH
+38B4D3     (base 16)		BSH Hausgeräte GmbH
 38B54D     (base 16)		Apple, Inc.
 38B5BD     (base 16)		E.G.O. Elektro-Ger
 38B5C9     (base 16)		INGRAM MICRO SERVICES
@@ -19091,6 +19121,7 @@
 3C3332     (base 16)		D-Link Corporation
 3C3464     (base 16)		Apple, Inc.
 3C3556     (base 16)		Cognitec Systems GmbH
+3C3558     (base 16)		CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.
 3C3576     (base 16)		ITEL MOBILE LIMITED
 3C363D     (base 16)		Nokia Corporation
 3C366A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -19354,6 +19385,7 @@
 3CD16E     (base 16)		Telepower Communication Co., Ltd
 3CD1C9     (base 16)		Groupe SEB
 3CD2E5     (base 16)		New H3C Technologies Co., Ltd
+3CD35C     (base 16)		Luna Innovations
 3CD4D6     (base 16)		WirelessWERX, Inc
 3CD7DA     (base 16)		SK Mtek microelectronics(shenzhen)limited
 3CD92B     (base 16)		Hewlett Packard
@@ -19703,6 +19735,7 @@
 40B3FC     (base 16)		Logital Co. Limited 
 40B4CD     (base 16)		Amazon Technologies Inc.
 40B4F0     (base 16)		Juniper Networks
+40B570     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 40B5C1     (base 16)		Cisco Systems, Inc
 40B607     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 40B688     (base 16)		LEGIC Identsystems AG
@@ -19877,6 +19910,7 @@
 441CA8     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 441D64     (base 16)		Espressif Inc.
 441DB1     (base 16)		APTIV SERVICES US, LLC
+441DE5     (base 16)		XCENA Inc.
 441E91     (base 16)		ARVIDA Intelligent Electronics Technology  Co.,Ltd.
 441E98     (base 16)		Ruckus Wireless
 441EA1     (base 16)		Hewlett Packard
@@ -19950,6 +19984,7 @@
 4448FF     (base 16)		Qingdao Haier Technology Co.,Ltd
 444963     (base 16)		Woven By Toyota U.S., Inc.
 444988     (base 16)		Intel Corporate
+4449C0     (base 16)		NVIDIA Corporation
 444A37     (base 16)		Xiaomi Communications Co Ltd
 444A4C     (base 16)		vivo Mobile Communication Co., Ltd.
 444A65     (base 16)		Silverflare Ltd.
@@ -20053,6 +20088,7 @@
 4488CB     (base 16)		Camco Technologies NV
 44896D     (base 16)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO 
 448A5B     (base 16)		Micro-Star INT'L CO., LTD.
+448A7F     (base 16)		Murata Manufacturing Co., Ltd.
 448C00     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 448C52     (base 16)		KTIS CO., Ltd
 448CAB     (base 16)		Beijing Flitlink Vientiane Technology Co., LTD
@@ -20074,6 +20110,7 @@
 4495FA     (base 16)		Qingdao Santong Digital Technology Co.Ltd
 44962B     (base 16)		Aidon Oy
 44975A     (base 16)		SHENZHEN FAST TECHNOLOGIES CO.,LTD
+44995B     (base 16)		GX India Pvt Ltd
 449A52     (base 16)		zte corporation
 449B78     (base 16)		The Now Factory
 449BC1     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -20125,6 +20162,7 @@
 44B423     (base 16)		HANWHA VISION VIETNAM COMPANY LIMITED
 44B433     (base 16)		tide.co.,ltd
 44B462     (base 16)		Flextronics Tech.(Ind) Pvt Ltd
+44B4A0     (base 16)		Mellanox Technologies, Inc.
 44B4B2     (base 16)		Amazon Technologies Inc.
 44B59C     (base 16)		Tenet Networks Private Limited
 44B6BE     (base 16)		Cisco Systems, Inc
@@ -20155,6 +20193,7 @@
 44C9A2     (base 16)		Greenwald Industries
 44CB8B     (base 16)		LG Innotek
 44CBAD     (base 16)		Xiaomi Communications Co Ltd
+44CC6E     (base 16)		Rockwell Automation
 44CD0E     (base 16)		FLEXTRONICS MANUFACTURING(ZHUHAI)CO.,LTD.
 44CE1D     (base 16)		Nokia
 44CE3A     (base 16)		Jiangsu Huacun Electronic Technology Co., Ltd.
@@ -20260,6 +20299,7 @@
 48066A     (base 16)		Tempered Networks, Inc.
 4808EB     (base 16)		IEEE Registration Authority
 480951     (base 16)		Guangzhou Trustmo Information System Co.,LTD
+480A28     (base 16)		Apple, Inc.
 480BB2     (base 16)		IEEE Registration Authority
 480C49     (base 16)		NAKAYO Inc
 480E13     (base 16)		ittim
@@ -21112,6 +21152,7 @@
 50206B     (base 16)		Copeland - Transportation Solutions ApS
 5021EC     (base 16)		Huawei Device Co., Ltd.
 502267     (base 16)		PixeLINK
+5022C9     (base 16)		Bel Power Solutions, Inc.
 50236D     (base 16)		Nintendo Co.,Ltd
 5023A2     (base 16)		Apple, Inc.
 50252B     (base 16)		Nethra Imaging Incorporated
@@ -21683,6 +21724,7 @@
 54725E     (base 16)		UNION MAN TECHNOLOGY CO.,LTD
 54726E     (base 16)		Daimler Truck AG
 54735A     (base 16)		Huawei Device Co., Ltd.
+547370     (base 16)		The LEGO Group
 547398     (base 16)		Toyo Electronics Corporation
 5474E6     (base 16)		Webtech Wireless
 547595     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
@@ -21717,6 +21759,7 @@
 5485C1     (base 16)		Siliconwaves Technologies Co.,Ltd
 5486BC     (base 16)		Cisco Systems, Inc
 54880E     (base 16)		SAMSUNG ELECTRO-MECHANICS(THAILAND)
+5488D5     (base 16)		zte corporation
 5488DE     (base 16)		Cisco Systems, Inc
 5488FE     (base 16)		Xiaoniu network technology (Shanghai) Co., Ltd.
 548922     (base 16)		Zelfy Inc
@@ -21875,6 +21918,7 @@
 54F0B1     (base 16)		Hewlett Packard Enterprise
 54F15F     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 54F201     (base 16)		Samsung Electronics Co.,Ltd
+54F283     (base 16)		Silicon Laboratories
 54F294     (base 16)		Huawei Device Co., Ltd.
 54F29F     (base 16)		HUNAN FN-LINK TECHNOLOGY LIMITED
 54F5B6     (base 16)		ORIENTAL PACIFIC INTERNATIONAL LIMITED
@@ -21915,6 +21959,7 @@
 580A20     (base 16)		Cisco Systems, Inc
 580AD4     (base 16)		Apple, Inc.
 580D0D     (base 16)		GREE ELECTRIC APPLIANCES, INC. OF ZHUHAI
+580FA5     (base 16)		Apple, Inc.
 581031     (base 16)		Hon Hai Precision IND.CO.,LTD
 58108C     (base 16)		Intelbras
 5810B7     (base 16)		Infinix mobility limited
@@ -21925,6 +21970,7 @@
 5816D7     (base 16)		ALPSALPINE CO,.LTD
 58170C     (base 16)		Sony Corporation
 581862     (base 16)		Sony Corporation
+5818B4     (base 16)		Chengdu Quanjing Intelligent Technology Co.,Ltd
 5819F8     (base 16)		Commscope
 581CBD     (base 16)		Affinegy
 581CF8     (base 16)		Intel Corporate
@@ -22239,6 +22285,7 @@
 58F387     (base 16)		Airios
 58F39C     (base 16)		Cisco Systems, Inc
 58F496     (base 16)		Source Chain
+58F658     (base 16)		Edifier International
 58F67B     (base 16)		Xia Men UnionCore Technology LTD.
 58F6BF     (base 16)		Kyoto University
 58F85C     (base 16)		LLC Proizvodstvennaya Kompania TransService
@@ -22399,6 +22446,7 @@
 5C5819     (base 16)		Jingsheng Technology Co., Ltd.
 5C58E6     (base 16)		Palo Alto Networks
 5C5948     (base 16)		Apple, Inc.
+5C5A35     (base 16)		eero inc.
 5C5A4C     (base 16)		IEEE Registration Authority
 5C5AC7     (base 16)		Cisco Systems, Inc
 5C5AEA     (base 16)		FORD
@@ -22552,6 +22600,7 @@
 5CB524     (base 16)		Sony Corporation
 5CB559     (base 16)		CNEX Labs
 5CB6CC     (base 16)		NovaComm Technologies Inc.
+5CB8B7     (base 16)		Apple, Inc.
 5CB8CB     (base 16)		Allis Communications
 5CB901     (base 16)		Hewlett Packard
 5CBA2C     (base 16)		Hewlett Packard Enterprise 
@@ -22709,6 +22758,7 @@
 6014B3     (base 16)		CyberTAN Technology Inc.
 601521     (base 16)		Redarc Electronics
 60152B     (base 16)		Palo Alto Networks
+60156F     (base 16)		TP-Link Systems Inc.
 601592     (base 16)		IEEE Registration Authority
 60159F     (base 16)		IEEE Registration Authority
 6015C7     (base 16)		IdaTech
@@ -22751,6 +22801,7 @@
 602B58     (base 16)		EM Microelectronic
 602D74     (base 16)		Extreme Networks Headquarters
 602E20     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+602ED5     (base 16)		Apple, Inc.
 6030B3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 6030D4     (base 16)		Apple, Inc.
 60313B     (base 16)		Sunnovo International Limited
@@ -23312,6 +23363,7 @@
 647BD4     (base 16)		Texas Instruments
 647C34     (base 16)		Ubee Interactive Co., Limited
 647CE8     (base 16)		Palo Alto Networks
+647D4D     (base 16)		Arcadyan Corporation
 647D81     (base 16)		YOKOTA INDUSTRIAL CO,.LTD
 647FDA     (base 16)		TEKTELIC Communications Inc.
 64808B     (base 16)		VG Controls, Inc.
@@ -23334,6 +23386,7 @@
 6490C1     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
 64956C     (base 16)		LG Electronics
 649714     (base 16)		eero inc.
+649746     (base 16)		AzureWave Technology Inc.
 649829     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 64989E     (base 16)		TRINNOV AUDIO
 64995D     (base 16)		LGE 
@@ -23351,6 +23404,7 @@
 649D38     (base 16)		Google, Inc.
 649D99     (base 16)		FS COM INC
 649E31     (base 16)		Beijing Xiaomi Mobile Software Co., Ltd
+649E58     (base 16)		MM Devices Pty. Ltd.
 649EF3     (base 16)		Cisco Systems, Inc
 649FF7     (base 16)		Kone OYj
 64A0AC     (base 16)		Adtran Inc
@@ -24072,6 +24126,7 @@
 6C558D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 6C55B1     (base 16)		Amazon Technologies Inc.
 6C55E8     (base 16)		Vantiva USA LLC
+6C55F6     (base 16)		eero inc.
 6C5640     (base 16)		BLU Products Inc
 6C5697     (base 16)		Amazon Technologies Inc.
 6C5779     (base 16)		Aclima, Inc.
@@ -24102,6 +24157,7 @@
 6C641A     (base 16)		Penguin Computing
 6C6567     (base 16)		BELIMO Automation AG
 6C67EF     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+6C688A     (base 16)		Amazon Technologies Inc.
 6C68A4     (base 16)		Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
 6C6A77     (base 16)		Intel Corporate
 6C6C0F     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -24160,6 +24216,7 @@
 6C9188     (base 16)		Nokia
 6C92BF     (base 16)		IEIT SYSTEMS Co., Ltd.
 6C92CF     (base 16)		Broadcom Limited
+6C92F6     (base 16)		Arista Networks
 6C9308     (base 16)		IEEE Registration Authority
 6C9313     (base 16)		Mellanox Technologies, Inc.
 6C9354     (base 16)		Yaojin Technology (Shenzhen) Co., LTD.
@@ -24189,6 +24246,7 @@
 6CA401     (base 16)		essensys plc
 6CA4D1     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 6CA604     (base 16)		Commscope
+6CA613     (base 16)		AltoBeam Inc.
 6CA682     (base 16)		EDAM information & communications
 6CA75F     (base 16)		zte corporation
 6CA780     (base 16)		Nokia Corporation
@@ -24384,7 +24442,7 @@
 702084     (base 16)		Hon Hai Precision Industry Co., Ltd.
 70217F     (base 16)		Xiaomi Communications Co Ltd
 7022FE     (base 16)		Apple, Inc.
-702393     (base 16)		fos4X GmbH
+702393     (base 16)		Polytech A/S
 702526     (base 16)		Nokia
 702559     (base 16)		CyberTAN Technology Inc.
 702605     (base 16)		SONY Visual Products Inc.
@@ -24503,6 +24561,7 @@
 7061BE     (base 16)		WNC Corporation
 7061EE     (base 16)		Sunwoda Electronic Co.,Ltd
 7062B8     (base 16)		D-Link International
+7062CB     (base 16)		Apple, Inc.
 706417     (base 16)		ORBIS TECNOLOGIA ELECTRICA S.A.
 706582     (base 16)		Suzhou Hanming Technologies Co., Ltd.
 7065A3     (base 16)		Kandao lightforge Co., Ltd.
@@ -24535,6 +24594,7 @@
 70723C     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 7072CF     (base 16)		EdgeCore Networks
 7072FE     (base 16)		Apple, Inc.
+70733A     (base 16)		Jiangxi Remote lntelligence Technology Co.,Ltd
 707362     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 7073CB     (base 16)		Apple, Inc.
 707414     (base 16)		Murata Manufacturing Co., Ltd.
@@ -24557,6 +24617,7 @@
 707DAF     (base 16)		Plucent AB
 707DB9     (base 16)		Cisco Systems, Inc
 707E43     (base 16)		Commscope
+707EDA     (base 16)		GSD VIET NAM TECHNOLOGY COMPANY LIMITED
 707EDE     (base 16)		NASTEC LTD.
 707FF2     (base 16)		Telechips, Inc.
 708105     (base 16)		Cisco Systems, Inc
@@ -24821,6 +24882,7 @@
 7427EA     (base 16)		Elitegroup Computer Systems Co.,Ltd.
 742857     (base 16)		Mayfield Robotics
 742869     (base 16)		Huawei Device Co., Ltd.
+7428AE     (base 16)		Mellanox Technologies, Inc.
 742917     (base 16)		Apple, Inc.
 742920     (base 16)		MCX-PRO Kft.
 742959     (base 16)		Apple, Inc.
@@ -24914,7 +24976,7 @@
 745C9F     (base 16)		TCT mobile ltd
 745CFA     (base 16)		Shenzhen Shunrui Gaojie Technology Co., Ltd.
 745D22     (base 16)		LCFC(Hefei) Electronics Technology co., ltd
-745D43     (base 16)		BSH Hausgeraete GmbH
+745D43     (base 16)		BSH Hausgeräte GmbH
 745D68     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 745E1C     (base 16)		PIONEER CORPORATION
 745F00     (base 16)		Samsung Semiconductor Inc.
@@ -25127,6 +25189,7 @@
 74D6EA     (base 16)		Texas Instruments
 74D713     (base 16)		Huaqin Technology Co. LTD
 74D7CA     (base 16)		Panasonic Automotive Systems Co.,Ltd
+74D809     (base 16)		Microsoft Corporation
 74D83E     (base 16)		Intel Corporate
 74D850     (base 16)		Evrisko Systems
 74D873     (base 16)		GUANGDONG GENIUS TECHNOLOGY CO., LTD.
@@ -25230,6 +25293,7 @@
 780A57     (base 16)		Shanghai Lightningsemi Technology Co.,Ltd.
 780AC7     (base 16)		Baofeng TV Co., Ltd.
 780B8C     (base 16)		Private
+780C26     (base 16)		Trafag AG
 780C48     (base 16)		Hong Kong Yihao Electronic Technology Co., Limited
 780C71     (base 16)		Inseego Wireless, Inc
 780CB8     (base 16)		Intel Corporate
@@ -25417,6 +25481,7 @@
 7869D4     (base 16)		Shenyang Vibrotech Instruments Inc.
 786A1F     (base 16)		Commscope
 786A89     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+786BA5     (base 16)		Changchun Jetty Automotive Technology Co., LTD
 786C1C     (base 16)		Apple, Inc.
 786C84     (base 16)		Amazon Technologies Inc.
 786CAB     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -25797,6 +25862,7 @@
 7C4F7D     (base 16)		Sawwave
 7C4FAD     (base 16)		Espressif Inc.
 7C4FB5     (base 16)		Arcadyan Corporation
+7C4FCD     (base 16)		Apple, Inc.
 7C5049     (base 16)		Apple, Inc.
 7C5079     (base 16)		Intel Corporate
 7C50DA     (base 16)		E.J Ward
@@ -25905,6 +25971,7 @@
 7C8D9C     (base 16)		Edgecore Americas Networking Corporation
 7C8EE4     (base 16)		Texas Instruments
 7C8FDE     (base 16)		DWnet Technologies(Suzhou) Corporation
+7C90E9     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 7C9122     (base 16)		Samsung Electronics Co.,Ltd
 7C942A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 7C949F     (base 16)		Shenzhen iComm Semiconductor CO.,LTD
@@ -25914,6 +25981,7 @@
 7C96D2     (base 16)		Fihonest communication co.,Ltd
 7C9763     (base 16)		Openmatics s.r.o.
 7C97E1     (base 16)		Huawei Device Co., Ltd.
+7C9824     (base 16)		Sagemcom Broadband SAS
 7C992E     (base 16)		Shanghai Notion lnformatio Technology Co.,Ltd.
 7C9946     (base 16)		Sector Alarm Tech S.L.
 7C9A1D     (base 16)		Apple, Inc.
@@ -25921,6 +25989,7 @@
 7C9A9B     (base 16)		VSE valencia smart energy
 7C9EBD     (base 16)		Espressif Inc.
 7C9F07     (base 16)		CIG SHANGHAI CO LTD
+7CA05E     (base 16)		Motorola Mobility LLC, a Lenovo Company
 7CA15D     (base 16)		GN ReSound A/S
 7CA177     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 7CA1AE     (base 16)		Apple, Inc.
@@ -26030,6 +26099,7 @@
 7CD44D     (base 16)		Shanghai Moorewatt Energy Technology Co.,Ltd
 7CD4A8     (base 16)		Sagemcom Broadband SAS
 7CD566     (base 16)		Amazon Technologies Inc.
+7CD62C     (base 16)		Apple, Inc.
 7CD661     (base 16)		Xiaomi Communications Co Ltd
 7CD762     (base 16)		Freestyle Technology Pty Ltd
 7CD844     (base 16)		Enmotus Inc
@@ -26491,6 +26561,7 @@
 80E82C     (base 16)		Hewlett Packard
 80E869     (base 16)		AltoBeam Inc.
 80E86F     (base 16)		Cisco Systems, Inc
+80E8A4     (base 16)		zte corporation
 80E94A     (base 16)		LEAPS s.r.o.
 80EA07     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 80EA0B     (base 16)		Zyxel Communications Corporation
@@ -26528,6 +26599,7 @@
 840055     (base 16)		VusionGroup
 8400D2     (base 16)		Sony Corporation
 840112     (base 16)		Kaon Group Co., Ltd.
+84016E     (base 16)		Honor Device Co., Ltd.
 8401A7     (base 16)		Greyware Automation Products, Inc
 840283     (base 16)		HUMAX Co., Ltd.
 840328     (base 16)		Juniper Networks
@@ -26675,6 +26747,7 @@
 8464DD     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 84652B     (base 16)		Donaldson Company
 846569     (base 16)		New H3C Technologies Co., Ltd
+84679A     (base 16)		Arm Ltd
 84683E     (base 16)		Intel Corporate
 846878     (base 16)		Apple, Inc.
 8468C8     (base 16)		TOTOLINK TECHNOLOGY INT‘L LIMITED
@@ -26875,6 +26948,7 @@
 84DBAC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 84DBFC     (base 16)		Nokia
 84DD20     (base 16)		Texas Instruments
+84DD84     (base 16)		Cisco Systems, Inc
 84DDB7     (base 16)		Cilag GmbH International
 84DE3D     (base 16)		Crystal Vision Ltd
 84DF0C     (base 16)		NET2GRID BV
@@ -26940,6 +27014,7 @@
 8801F2     (base 16)		Vitec System Engineering Inc.
 8801F9     (base 16)		Texas Instruments
 880264     (base 16)		Pascal Audio
+880348     (base 16)		SERCOMM PHILIPPINES INC
 88034C     (base 16)		WEIFANG GOERTEK ELECTRONICS CO.,LTD
 880355     (base 16)		Arcadyan Corporation
 8803E9     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
@@ -27360,6 +27435,7 @@
 8C06CB     (base 16)		Toradex AG
 8C0734     (base 16)		Private
 8C078C     (base 16)		FLOW DATA INC
+8C083C     (base 16)		EM Microelectronic
 8C0879     (base 16)		Texas Instruments
 8C088B     (base 16)		Remote Solution
 8C08AA     (base 16)		Apple, Inc.
@@ -27407,6 +27483,7 @@
 8C1ED9     (base 16)		Beijing Unigroup Tsingteng Microsystem Co., LTD.
 8C1F64     (base 16)		IEEE Registration Authority
 8C1F94     (base 16)		RF Surgical System Inc. 
+8C20F1     (base 16)		OpenAI
 8C210A     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 8C22D2     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 8C2505     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -27524,6 +27601,7 @@
 8C64A2     (base 16)		OnePlus Technology (Shenzhen) Co., Ltd
 8C64D4     (base 16)		Hyeco Smart Tech Co.,Ltd
 8C65A3     (base 16)		Silicon Laboratories
+8C65EC     (base 16)		TUBITAK MAM
 8C6794     (base 16)		vivo Mobile Communication Co., Ltd.
 8C683A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 8C6878     (base 16)		Nortek-AS
@@ -27567,6 +27645,7 @@
 8C7F3B     (base 16)		Commscope
 8C8126     (base 16)		ARCOM
 8C8172     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
+8C8283     (base 16)		Apple, Inc.
 8C82A8     (base 16)		Insigma Technology Co.,Ltd
 8C8394     (base 16)		Arcadyan Corporation
 8C839D     (base 16)		SHENZHEN XINYUPENG ELECTRONIC TECHNOLOGY CO., LTD
@@ -27914,6 +27993,7 @@
 904CE5     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 904D4A     (base 16)		Sagemcom Broadband SAS
 904DC3     (base 16)		Flonidan A/S
+904DE2     (base 16)		Apple, Inc.
 904E2B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 904E91     (base 16)		IEEE Registration Authority
 90505A     (base 16)		unGlue, Inc
@@ -28151,6 +28231,7 @@
 90D92C     (base 16)		HUG-WITSCHI AG
 90DA4E     (base 16)		AVANU
 90DA6A     (base 16)		FOCUS H&S Co., Ltd.
+90DA72     (base 16)		Espressif Inc.
 90DAF9     (base 16)		Siemens Rail Automation SAU
 90DB46     (base 16)		E-LEAD ELECTRONIC CO., LTD
 90DD5D     (base 16)		Apple, Inc.
@@ -28251,6 +28332,7 @@
 940E2A     (base 16)		NXP Semiconductors Taiwan Ltd.
 940E6B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 940EE7     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+940F3B     (base 16)		ASKEY COMPUTER CORP
 94103E     (base 16)		Belkin International Inc.
 941042     (base 16)		Fanox Electronic S.L.
 94105A     (base 16)		Dell Inc.
@@ -28417,6 +28499,7 @@
 94877C     (base 16)		Commscope
 9487E0     (base 16)		Xiaomi Communications Co Ltd
 948815     (base 16)		Infinique Worldwide Inc
+948835     (base 16)		CRESTRON ELECTRONICS, INC.
 948854     (base 16)		Texas Instruments
 94885E     (base 16)		Surfilter Network Technology Co., Ltd. 
 948978     (base 16)		Apple, Inc.
@@ -28893,6 +28976,7 @@
 989DE5     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 989E63     (base 16)		Apple, Inc.
 989E80     (base 16)		tonies GmbH
+989E85     (base 16)		Honor Device Co., Ltd.
 989F1A     (base 16)		Private
 989F1E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 98A14A     (base 16)		Quectel Wireless Solutions Co.,Ltd.
@@ -29523,6 +29607,7 @@ A022DE     (base 16)		vivo Mobile Communication Co., Ltd.
 A0231B     (base 16)		TeleComp R&D Corp.
 A0239F     (base 16)		Cisco Systems, Inc
 A02442     (base 16)		Shenzhenshi Xinzhongxin Technology Co.Ltd
+A02490     (base 16)		IEEE Registration Authority
 A024F9     (base 16)		Chengdu InnovaTest Technology Co., Ltd
 A025D7     (base 16)		Hewlett Packard Enterprise
 A02605     (base 16)		Belden Hirschmann industries (Suzhou) Limited
@@ -29593,6 +29678,7 @@ A04C5B     (base 16)		Shenzhen TINNO Mobile Technology Corp.
 A04CC1     (base 16)		Helixtech Corp.
 A04E01     (base 16)		CENTRAL ENGINEERING co.,ltd.
 A04E04     (base 16)		Nokia Corporation
+A04E8D     (base 16)		Cisco Meraki
 A04EA7     (base 16)		Apple, Inc.
 A04ECF     (base 16)		Apple, Inc.
 A04F52     (base 16)		Intel Corporate
@@ -29618,6 +29704,7 @@ A0593A     (base 16)		V.D.S. Video Display Systems srl
 A05950     (base 16)		Intel Corporate
 A05AA4     (base 16)		Grand Products Nevada, Inc.
 A05B21     (base 16)		ENVINET GmbH
+A05D0E     (base 16)		ALPSALPINE CO.,LTD.
 A05DC1     (base 16)		TMCT Co., LTD.
 A05DE7     (base 16)		DIRECTV, Inc.
 A05E6B     (base 16)		MELPER Co., Ltd.
@@ -29678,6 +29765,7 @@ A085FC     (base 16)		Microsoft Corporation
 A0861D     (base 16)		Chengdu Fuhuaxin Technology co.,Ltd
 A086C6     (base 16)		Xiaomi Communications Co Ltd
 A086EC     (base 16)		SAEHAN HITEC Co., Ltd
+A087BE     (base 16)		Apple, Inc.
 A0885E     (base 16)		Anhui Xiangyao New Energy Technology Co., Ltd.
 A08869     (base 16)		Intel Corporate
 A0889D     (base 16)		Huawei Device Co., Ltd.
@@ -30367,6 +30455,7 @@ A826D9     (base 16)		HTC Corporation
 A827C8     (base 16)		Edgecore Americas Networking Corporation
 A82948     (base 16)		TP-Link Systems Inc.
 A8294C     (base 16)		Precision Optical Transceivers, Inc.
+A829DC     (base 16)		TP-Link Systems Inc.
 A82AD6     (base 16)		Arthrex Inc.
 A82BB5     (base 16)		Edgecore Networks Corporation
 A82BB9     (base 16)		Samsung Electronics Co.,Ltd
@@ -30767,6 +30856,7 @@ AC2241     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 AC2316     (base 16)		Mist Systems, Inc.
 AC2334     (base 16)		Infinix mobility limited
 AC233F     (base 16)		Shenzhen Minew Technologies Co., Ltd.
+AC236E     (base 16)		Apismoon Electric Pte. Ltd.
 AC2477     (base 16)		Shenzhen Tinno Mobile Technology Corp
 AC276E     (base 16)		Espressif Inc.
 AC2929     (base 16)		Infinix mobility limited
@@ -31225,6 +31315,7 @@ B03DC2     (base 16)		Wasp artificial intelligence(Shenzhen) Co.,ltd
 B03E51     (base 16)		SKY UK LIMITED
 B03EB0     (base 16)		MICRODIA Ltd.
 B03F64     (base 16)		Apple, Inc.
+B03FD3     (base 16)		Espressif Inc.
 B04089     (base 16)		Senient Systems LTD
 B0411D     (base 16)		ITTIM Technologies
 B0416F     (base 16)		Shenzhen Maxtang Computer Co.,Ltd
@@ -31470,6 +31561,7 @@ B0D576     (base 16)		Apple, Inc.
 B0D59D     (base 16)		Shenzhen Zowee Technology Co., Ltd
 B0D5CC     (base 16)		Texas Instruments
 B0D5FB     (base 16)		Google, Inc.
+B0D616     (base 16)		Super Micro Computer, Inc.
 B0D77E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 B0D7C5     (base 16)		Logipix Ltd
 B0D7CC     (base 16)		Tridonic GmbH & Co KG
@@ -31584,6 +31676,7 @@ B41A1D     (base 16)		Samsung Electronics Co.,Ltd
 B41BB0     (base 16)		Apple, Inc.
 B41C30     (base 16)		zte corporation
 B41CAB     (base 16)		ICR, inc.
+B41CAF     (base 16)		UAB TELTONIKA NETWORKS
 B41D2B     (base 16)		Shenzhen YOUHUA Technology Co., Ltd
 B41D62     (base 16)		Nokia Shanghai Bell Co., Ltd.
 B41DC4     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -31635,6 +31728,7 @@ B43A31     (base 16)		Silicon Laboratories
 B43A45     (base 16)		Espressif Inc.
 B43A96     (base 16)		Arista Networks
 B43AE2     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+B43B52     (base 16)		Sagemcom Broadband SAS
 B43D08     (base 16)		GX International BV
 B43D6B     (base 16)		NXP Semiconductor (Tianjin) LTD.
 B43DB2     (base 16)		Degreane Horizon
@@ -31746,6 +31840,7 @@ B48A0A     (base 16)		Espressif Inc.
 B48A5F     (base 16)		Juniper Networks
 B48B19     (base 16)		Apple, Inc.
 B48C9D     (base 16)		AzureWave Technology Inc.
+B490E5     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
 B49107     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 B492FE     (base 16)		Arista Network, Inc.
 B4944E     (base 16)		WeTelecom Co., Ltd.
@@ -31755,6 +31850,7 @@ B49842     (base 16)		zte corporation
 B49882     (base 16)		Brusa HyPower AG
 B4994C     (base 16)		Texas Instruments
 B499BA     (base 16)		Hewlett Packard
+B49A7D     (base 16)		GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD
 B49A95     (base 16)		Shenzhen Boomtech Industrial Corporation
 B49CDF     (base 16)		Apple, Inc.
 B49D02     (base 16)		Samsung Electronics Co.,Ltd
@@ -31950,6 +32046,7 @@ B8098A     (base 16)		Apple, Inc.
 B80B9A     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 B80B9D     (base 16)		ROPEX Industrie-Elektronik GmbH
 B80BDA     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
+B80E1D     (base 16)		PAX Computer Technology(Shenzhen) Ltd.
 B810D4     (base 16)		Masimo Corporation
 B8114B     (base 16)		Cisco Systems, Inc
 B812DA     (base 16)		 LVSWITCHES INC.
@@ -31973,6 +32070,7 @@ B81E0B     (base 16)		Extreme Networks Headquarters
 B81E61     (base 16)		TELLESCOM INDUSTRIA E COMERCIO EM TELECOMUNICACAO 
 B81E9E     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 B81EA4     (base 16)		Liteon Technology Corporation
+B81F3F     (base 16)		Espressif Inc.
 B81F5E     (base 16)		Apption Labs Limited
 B8208E     (base 16)		Panasonic Connect Co., Ltd.
 B820E7     (base 16)		Guangzhou Horizontal Information & Network Integration Co. Ltd
@@ -32002,6 +32100,7 @@ B830A8     (base 16)		Road-Track Telematics Development
 B831B5     (base 16)		Microsoft Corporation
 B83241     (base 16)		Wuhan Tianyu Information Industry Co., Ltd.
 B8328F     (base 16)		eero inc.
+B83446     (base 16)		Motorola Mobility LLC, a Lenovo Company
 B836D8     (base 16)		Videoswitch
 B8374A     (base 16)		Apple, Inc.
 B8374B     (base 16)		Hewlett Packard Enterprise 
@@ -32291,6 +32390,7 @@ B8DAF7     (base 16)		Advanced Photonics, Inc.
 B8DB1C     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 B8DB38     (base 16)		Google, Inc.
 B8DC28     (base 16)		Extreme Networks Headquarters
+B8DC7D     (base 16)		VusionGroup
 B8DC87     (base 16)		IAI Corporation
 B8DD71     (base 16)		zte corporation
 B8DDE8     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -32484,6 +32584,7 @@ BC4CC4     (base 16)		Apple, Inc.
 BC4DFB     (base 16)		Hitron Technologies. Inc
 BC4E3C     (base 16)		CORE STAFF CO., LTD.
 BC4E5D     (base 16)		ZhongMiao Technology Co., Ltd.
+BC4F2D     (base 16)		Apple, Inc.
 BC515F     (base 16)		Nokia Solutions and Networks India Private Limited
 BC51FE     (base 16)		Swann communications Pty Ltd
 BC5274     (base 16)		Samsung Electronics Co.,Ltd
@@ -32578,6 +32679,7 @@ BC8893     (base 16)		VILLBAU Ltd.
 BC88C3     (base 16)		Ningbo Dooya Mechanic & Electronic Technology Co., Ltd
 BC89A6     (base 16)		Nintendo Co.,Ltd
 BC89A7     (base 16)		Apple, Inc.
+BC89C1     (base 16)		Apple, Inc.
 BC89F8     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
 BC8AA3     (base 16)		NHN Entertainment
 BC8AE8     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
@@ -32965,6 +33067,7 @@ C08A60     (base 16)		AltoBeam Inc.
 C08ACD     (base 16)		Guangzhou Shiyuan Electronic Technology Company Limited
 C08ADE     (base 16)		Ruckus Wireless
 C08B05     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+C08B27     (base 16)		FN-LINK TECHNOLOGY Ltd.
 C08B2A     (base 16)		Cisco Systems, Inc
 C08B6F     (base 16)		S I Sistemas Inteligentes Eletrônicos Ltda
 C08C60     (base 16)		Cisco Systems, Inc
@@ -33067,6 +33170,7 @@ C0C946     (base 16)		MITSUYA LABORATORIES INC.
 C0C976     (base 16)		Shenzhen TINNO Mobile Technology Corp.
 C0C989     (base 16)		Edgecore Americas Networking Corporation
 C0C9E3     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
+C0CAA2     (base 16)		ESSYS
 C0CB38     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 C0CBF1     (base 16)		Mobiwire Mobiles (NingBo) Co., LTD
 C0CC42     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
@@ -33143,6 +33247,7 @@ C0F9B0     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 C0F9D2     (base 16)		arkona technologies GmbH
 C0FBC1     (base 16)		ITEL MOBILE LIMITED
 C0FBF9     (base 16)		IEEE Registration Authority
+C0FD6F     (base 16)		Sagemcom Broadband SAS
 C0FD84     (base 16)		zte corporation
 C0FFA8     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 C0FFD4     (base 16)		NETGEAR
@@ -33433,6 +33538,7 @@ C4A72B     (base 16)		SHENZHEN CHUANGWEI-RGB ELECTRONICS CO.,LTD
 C4A816     (base 16)		eero inc.
 C4A81D     (base 16)		D-Link International
 C4A9B8     (base 16)		XIAMENSHI C-CHIP TECHNOLOGY CO.,LTD
+C4AA43     (base 16)		Cisco Systems, Inc
 C4AA99     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 C4AAA1     (base 16)		SUMMIT DEVELOPMENT, spol.s r.o.
 C4AAC4     (base 16)		Zhejiang Dahua Technology Co., Ltd.
@@ -33918,7 +34024,7 @@ C8D5FE     (base 16)		Shenzhen Zowee Technology Co., Ltd
 C8D69D     (base 16)		Arab International Optronics
 C8D6B7     (base 16)		Solidigm Technology
 C8D719     (base 16)		Cisco-Linksys, LLC
-C8D778     (base 16)		BSH Hausgeraete GmbH
+C8D778     (base 16)		BSH Hausgeräte GmbH
 C8D779     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
 C8D7B0     (base 16)		Samsung Electronics Co.,Ltd
 C8D884     (base 16)		Universal Electronics, Inc.
@@ -34427,6 +34533,7 @@ D009C8     (base 16)		Cisco Systems, Inc
 D009F5     (base 16)		Hosiden Corporation
 D00AAB     (base 16)		Yokogawa Digital Computer Corporation
 D00B27     (base 16)		Murata Manufacturing Co., Ltd.
+D00C5E     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 D00DF7     (base 16)		Huawei Device Co., Ltd.
 D00EA4     (base 16)		Porsche Cars North America
 D00ED9     (base 16)		Taicang T&W Electronics
@@ -34436,6 +34543,7 @@ D01242     (base 16)		BIOS Corporation
 D01255     (base 16)		Hui Zhou Gaoshengda Technology Co.,LTD
 D012CB     (base 16)		AVM Audiovisuelles Marketing und Computersysteme GmbH
 D0131E     (base 16)		Sunrex Technology Corp
+D013C1     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 D013FD     (base 16)		LG Electronics (Mobile Communications)
 D01411     (base 16)		IEEE Registration Authority
 D0154A     (base 16)		zte corporation
@@ -34528,6 +34636,7 @@ D05349     (base 16)		Liteon Technology Corporation
 D0542D     (base 16)		Cambridge Industries(Group) Co.,Ltd.
 D05475     (base 16)		SAVI Controls
 D05509     (base 16)		Nintendo Co.,Ltd
+D05533     (base 16)		Palo Alto Networks
 D055B2     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 D056BF     (base 16)		AMOSENSE
 D056F2     (base 16)		BUFFALO.INC
@@ -34673,6 +34782,7 @@ D0AE05     (base 16)		Xiaomi Communications Co Ltd
 D0AEEC     (base 16)		Alpha Networks Inc.
 D0AFB6     (base 16)		Linktop Technology Co., LTD
 D0B0CD     (base 16)		Moen
+D0B0DF     (base 16)		Mimosa Networks
 D0B128     (base 16)		Samsung Electronics Co.,Ltd
 D0B1CA     (base 16)		Shenzhen Skyworth Digital  Technology  CO., Ltd
 D0B214     (base 16)		PoeWit Inc
@@ -34938,6 +35048,7 @@ D45383     (base 16)		Murata Manufacturing Co., Ltd.
 D453AF     (base 16)		VIGO System S.A.
 D4548B     (base 16)		Intel Corporate
 D45556     (base 16)		Fiber Mountain Inc.
+D455AD     (base 16)		go-e GmbH
 D455BE     (base 16)		SHENZHEN FAST TECHNOLOGIES CO.,LTD
 D45763     (base 16)		Apple, Inc.
 D45800     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
@@ -35362,6 +35473,7 @@ D84489     (base 16)		TP-Link Systems Inc
 D8452B     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 D84567     (base 16)		TECNO MOBILE LIMITED
 D84606     (base 16)		Silicon Valley Global Marketing
+D846CE     (base 16)		Apple, Inc.
 D84710     (base 16)		Sichuan Changhong Electric Ltd.
 D84732     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 D8478F     (base 16)		Microchip Technology Inc.
@@ -35543,6 +35655,7 @@ D8B061     (base 16)		SHENZHEN WENXUN TECHNOLOGY CO.,LTD
 D8B122     (base 16)		Juniper Networks
 D8B12A     (base 16)		Panasonic Mobile Communications Co.,Ltd.
 D8B190     (base 16)		Cisco Systems, Inc
+D8B1DE     (base 16)		Hewlett Packard Enterprise
 D8B249     (base 16)		Huawei Device Co., Ltd.
 D8B293     (base 16)		TOPSSD
 D8B2AA     (base 16)		zte corporation
@@ -35742,6 +35855,7 @@ DC3130     (base 16)		3onedata Technology Co. Ltd.
 DC31D1     (base 16)		vivo Mobile Communication Co., Ltd.
 DC3262     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 DC330D     (base 16)		QING DAO HAIER TELECOM CO.,LTD.
+DC330E     (base 16)		Qingdao Haier Technology Co.Ltd
 DC333D     (base 16)		Huawei Device Co., Ltd.
 DC3350     (base 16)		TechSAT GmbH
 DC35F1     (base 16)		Positivo Tecnologia S.A.
@@ -35969,6 +36083,7 @@ DCC622     (base 16)		BUHEUNG SYSTEM
 DCC64B     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 DCC793     (base 16)		Nokia Corporation
 DCC8F5     (base 16)		Shanghai UMEinfo CO.,LTD.
+DCCB35     (base 16)		EM Microelectronic
 DCCBA8     (base 16)		Explora Technologies Inc
 DCCC8D     (base 16)		Integrated Device Technology (Malaysia) Sdn. Bhd.
 DCCCE6     (base 16)		Samsung Electronics Co.,Ltd
@@ -36042,6 +36157,7 @@ DCEFCA     (base 16)		Murata Manufacturing Co., Ltd.
 DCF05D     (base 16)		Letta Teknoloji
 DCF090     (base 16)		Nubia Technology Co.,Ltd.
 DCF110     (base 16)		Nokia Corporation
+DCF144     (base 16)		Ocean Solution Technology 
 DCF31C     (base 16)		Texas Instruments
 DCF34C     (base 16)		PT HAN SUNG ELECTORONICS INDONESIA
 DCF401     (base 16)		Dell Inc.
@@ -36194,6 +36310,7 @@ E04C12     (base 16)		Realme Chongqing Mobile Telecommunications Corp.,Ltd.
 E04E5D     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 E04E7A     (base 16)		Nanjing Qinheng Microelectronics Co., Ltd.
 E04F43     (base 16)		Universal Global Scientific Industrial., Ltd
+E04F95     (base 16)		Sagemcom Broadband SAS
 E04FBD     (base 16)		Sichuan Tianyi Comheart Telecom Co.,LTD
 E0508B     (base 16)		Zhejiang Dahua Technology Co., Ltd.
 E05124     (base 16)		NXP Semiconductors
@@ -36313,6 +36430,7 @@ E0A25A     (base 16)		Shanghai Mo xiang Network Technology CO.,ltd
 E0A30F     (base 16)		Pevco
 E0A366     (base 16)		Motorola Mobility LLC, a Lenovo Company
 E0A3AC     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
+E0A447     (base 16)		zte corporation
 E0A498     (base 16)		SHENZHEN ORFA TECH CO.,LTD 
 E0A509     (base 16)		Bitmain Technologies Inc
 E0A670     (base 16)		Nokia Corporation
@@ -36394,6 +36512,7 @@ E0D083     (base 16)		Samsung Electronics Co.,Ltd
 E0D10A     (base 16)		Katoudenkikougyousyo co ltd
 E0D173     (base 16)		Cisco Systems, Inc
 E0D1E6     (base 16)		Aliph dba Jawbone
+E0D239     (base 16)		TECHNOLID, LLC
 E0D31A     (base 16)		EQUES Technology Co., Limited
 E0D362     (base 16)		TP-Link Systems Inc.
 E0D38E     (base 16)		Chipsea Technologies (Shenzhen) Crop.
@@ -36792,6 +36911,7 @@ E4D332     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 E4D373     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 E4D3AA     (base 16)		FCNT LLC
 E4D3F1     (base 16)		Cisco Systems, Inc
+E4D436     (base 16)		Nokia Solutions and Networks India Private Limited
 E4D53D     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 E4D58B     (base 16)		Hangzhou Hikvision Digital Technology Co.,Ltd.
 E4D71D     (base 16)		Oraya Therapeutics
@@ -37343,6 +37463,7 @@ EC28D3     (base 16)		Apple, Inc.
 EC2A72     (base 16)		Dell Inc.
 EC2AF0     (base 16)		Ypsomed AG
 EC2BEB     (base 16)		Amazon Technologies Inc.
+EC2C0D     (base 16)		Apple, Inc.
 EC2C11     (base 16)		CWD INNOVATION LIMITED
 EC2C49     (base 16)		NakaoLab, The University of Tokyo
 EC2C73     (base 16)		Apple, Inc.
@@ -37490,6 +37611,7 @@ EC83D5     (base 16)		GIRD Systems Inc
 EC8439     (base 16)		Private
 EC84B4     (base 16)		CIG SHANGHAI CO LTD
 EC852F     (base 16)		Apple, Inc.
+EC86C4     (base 16)		Mellanox Technologies, Inc.
 EC888F     (base 16)		TP-LINK TECHNOLOGIES CO.,LTD.
 EC8892     (base 16)		Motorola Mobility LLC, a Lenovo Company
 EC8914     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -37620,6 +37742,7 @@ ECD9D1     (base 16)		Shenzhen TG-NET Botone Technology Co.,Ltd.
 ECDA3B     (base 16)		Espressif Inc.
 ECDA59     (base 16)		New H3C Technologies Co., Ltd
 ECDB86     (base 16)		API-K
+ECDCAA     (base 16)		Apple, Inc.
 ECDD24     (base 16)		Cisco Systems, Inc
 ECDE3D     (base 16)		Lamprey Networks, Inc.
 ECDF3A     (base 16)		vivo Mobile Communication Co., Ltd.
@@ -37971,6 +38094,7 @@ F0C371     (base 16)		Apple, Inc.
 F0C42F     (base 16)		Huawei Device Co., Ltd.
 F0C478     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 F0C558     (base 16)		U.D.Electronic Corp.
+F0C71F     (base 16)		Arista Networks
 F0C725     (base 16)		Apple, Inc.
 F0C745     (base 16)		TECNO MOBILE LIMITED
 F0C77F     (base 16)		Texas Instruments
@@ -38107,6 +38231,7 @@ F41532     (base 16)		PETAiO (NanJing), Inc.
 F41535     (base 16)		SPON Communication Technology Co.,Ltd
 F41563     (base 16)		F5 Inc.
 F415FD     (base 16)		Shanghai Pateo Electronic Equipment Manufacturing Co., Ltd.
+F416E7     (base 16)		Skyverse Limited
 F417B8     (base 16)		AirTies Wireless Networks
 F419E2     (base 16)		Volterra
 F41A79     (base 16)		IEEE Registration Authority
@@ -38221,6 +38346,7 @@ F4573E     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 F45842     (base 16)		Boxx TV Ltd
 F45B29     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 F45B73     (base 16)		Wanjiaan Interconnected Technology Co., Ltd
+F45BB4     (base 16)		Cisco Systems, Inc
 F45C42     (base 16)		Huawei Device Co., Ltd.
 F45C89     (base 16)		Apple, Inc.
 F45EAB     (base 16)		Texas Instruments
@@ -38326,6 +38452,7 @@ F49F54     (base 16)		Samsung Electronics Co.,Ltd
 F49FF3     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 F4A157     (base 16)		Huawei Device Co., Ltd.
 F4A17F     (base 16)		Marquardt Electronics Technology (Shanghai) Co.Ltd
+F4A1A6     (base 16)		Apple, Inc.
 F4A294     (base 16)		EAGLE WORLD DEVELOPMENT CO., LIMITED
 F4A310     (base 16)		Apple, Inc.
 F4A3C2     (base 16)		Shenzhen iComm Semiconductor CO.,LTD
@@ -38575,6 +38702,7 @@ F82FA8     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 F83002     (base 16)		Texas Instruments
 F83094     (base 16)		Alcatel-Lucent Telecom Limited
 F8313E     (base 16)		endeavour GmbH
+F832BA     (base 16)		VusionGroup
 F832E4     (base 16)		ASUSTek COMPUTER INC.
 F83331     (base 16)		Texas Instruments
 F83376     (base 16)		Good Mind Innovation Co., Ltd.
@@ -38662,6 +38790,7 @@ F860F0     (base 16)		Hewlett Packard Enterprise
 F86214     (base 16)		Apple, Inc.
 F862AA     (base 16)		xn systems
 F8633F     (base 16)		Intel Corporate
+F86347     (base 16)		Sichuan AI-Link Technology Co., Ltd.
 F863D9     (base 16)		Commscope
 F86465     (base 16)		Anova Applied Electronics, Inc.
 F864B8     (base 16)		zte corporation
@@ -38692,6 +38821,7 @@ F8731A     (base 16)		zte corporation
 F87394     (base 16)		NETGEAR
 F873A2     (base 16)		Avaya Inc
 F873DF     (base 16)		Apple, Inc.
+F87528     (base 16)		IEEE Registration Authority
 F87588     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 F875A4     (base 16)		LCFC(Hefei) Electronics Technology co., ltd
 F8769B     (base 16)		Neopis Co., Ltd.
@@ -38800,6 +38930,7 @@ F8AFDB     (base 16)		Fiberhome Telecommunication Technologies Co.,LTD
 F8B132     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 F8B156     (base 16)		Dell Inc.
 F8B1DD     (base 16)		Apple, Inc.
+F8B22C     (base 16)		Roku, Inc
 F8B2F3     (base 16)		GUANGZHOU BOSMA TECHNOLOGY CO.,LTD
 F8B3B7     (base 16)		Espressif Inc.
 F8B46A     (base 16)		Hewlett Packard
@@ -38863,6 +38994,7 @@ F8D554     (base 16)		GD Midea Air-Conditioning Equipment Co.,Ltd.
 F8D756     (base 16)		Simm Tronic Limited 
 F8D758     (base 16)		Veratron AG
 F8D7BF     (base 16)		REV Ritter GmbH
+F8D811     (base 16)		Quectel Wireless Solutions Co.,Ltd.
 F8D9B8     (base 16)		Open Mesh, Inc.
 F8DA0C     (base 16)		Hon Hai Precision Ind. Co.,Ltd.
 F8DADF     (base 16)		EcoTech, Inc.
@@ -38890,6 +39022,7 @@ F8E5CE     (base 16)		Apple, Inc.
 F8E5CF     (base 16)		CGI IT UK LIMITED
 F8E61A     (base 16)		Samsung Electronics Co.,Ltd
 F8E71E     (base 16)		Ruckus Wireless
+F8E73C     (base 16)		Ufispace Co., LTD.
 F8E7A0     (base 16)		vivo Mobile Communication Co., Ltd.
 F8E7B5     (base 16)		µTech Tecnologia LTDA
 F8E811     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -38959,6 +39092,7 @@ FC0FE7     (base 16)		Microchip Technology Inc.
 FC101A     (base 16)		Palo Alto Networks
 FC10BD     (base 16)		Control Sistematizado S.A.
 FC10C6     (base 16)		Taicang T&W Electronics
+FC1119     (base 16)		Silicon Laboratories
 FC1165     (base 16)		Cambium Networks Limited
 FC1186     (base 16)		Logic3 plc
 FC1193     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
@@ -38972,6 +39106,7 @@ FC1607     (base 16)		Taian Technology(Wuxi) Co.,Ltd.
 FC1794     (base 16)		InterCreative Co., Ltd
 FC1803     (base 16)		HUAWEI TECHNOLOGIES CO.,LTD
 FC183C     (base 16)		Apple, Inc.
+FC186B     (base 16)		Dot Origin Ltd
 FC1910     (base 16)		Samsung Electronics Co.,Ltd
 FC1928     (base 16)		Actions Microelectronics
 FC1999     (base 16)		Xiaomi Communications Co Ltd
@@ -39248,6 +39383,7 @@ FCB698     (base 16)		Cambridge Industries(Group) Co.,Ltd.
 FCB69D     (base 16)		Zhejiang Dahua Technology Co., Ltd.
 FCB6D8     (base 16)		Apple, Inc.
 FCB7F0     (base 16)		Idaho National Laboratory
+FCB948     (base 16)		McScience Inc.
 FCB97E     (base 16)		GE Appliances
 FCB9DF     (base 16)		Motorola Mobility LLC, a Lenovo Company
 FCBBA1     (base 16)		Shenzhen Minicreate Technology Co.,Ltd
